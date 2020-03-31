@@ -1,0 +1,7 @@
+<ivy-module version="2.0">
+    <info organisation="Demo Application" module="App"/>
+    <dependencies>
+        <dependency org="junit" name="junit" rev="4.12"/>
+        <dependency org="commons-codec" name="commons-codec" rev="1.11"/>
+    </dependencies>
+</ivy-module>
